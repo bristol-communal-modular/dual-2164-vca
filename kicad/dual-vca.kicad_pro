@@ -535,7 +535,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "../build/dual-vca-bom.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -566,13 +566,13 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -581,10 +581,10 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -599,16 +599,16 @@
           "show": false
         },
         {
-          "group_by": false,
+          "group_by": true,
           "label": "Spec",
           "name": "Spec",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,
           "label": "Tolerance",
           "name": "Tolerance",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

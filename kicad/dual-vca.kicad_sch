@@ -7,7 +7,7 @@
 	(title_block
 		(title "Dual VCA")
 		(date "2024-07-04")
-		(rev "02")
+		(rev "rev02")
 		(company "Bristol Communal Modular")
 		(comment 2 "creativecommons.org/licenses/by/4.0/")
 		(comment 3 "License: CC BY 4.0")
@@ -2979,7 +2979,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "Eurorack_Power:Eurorack_PowerHeader_2x05_P2.54mm_Shrouded"
+			(property "Footprint" "Rumblesan_Eurorack_Power:Eurorack_PowerHeader_2x05_P2.54mm_Shrouded"
 				(at 0 -8.89 0)
 				(effects
 					(font
@@ -7125,7 +7125,7 @@
 				(hide yes)
 			)
 		)
-		(property "Spec" "ceramic C0G"
+		(property "Spec" "ceramic X7R"
 			(at 306.07 46.99 90)
 			(effects
 				(font
@@ -14075,7 +14075,7 @@
 				(hide yes)
 			)
 		)
-		(property "Spec" "ceramic C0G"
+		(property "Spec" "ceramic X7R"
 			(at 311.15 34.29 90)
 			(effects
 				(font
@@ -15106,7 +15106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Spec" "ceramic C0G"
+		(property "Spec" "ceramic X7R"
 			(at 318.77 46.99 90)
 			(effects
 				(font
@@ -15895,7 +15895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Spec" "ceramic C0G"
+		(property "Spec" "ceramic X7R"
 			(at 306.07 34.29 90)
 			(effects
 				(font
